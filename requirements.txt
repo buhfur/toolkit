@@ -1,0 +1,11 @@
+commonmark==0.9.1
+joblib==1.1.0
+numpy==1.23.0
+opencv-python==4.6.0.66
+Pillow==9.2.0
+Pygments==2.12.0
+rich==12.4.4
+scikit-learn==1.1.1
+scipy==1.8.1
+textual==0.1.18
+threadpoolctl==3.1.0
